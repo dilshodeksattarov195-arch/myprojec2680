@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userdender",
+        "uuid": 14134320,
+        "checksum": "hfopx"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
